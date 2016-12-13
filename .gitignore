@@ -5,3 +5,7 @@
 /protected/config.php
 /protected/cache
 /protected/view/adv
+
+.DS_Store
+*.lock
+.idea
